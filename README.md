@@ -12,12 +12,12 @@ The purpose of my analysis was to visually show which stocks would be the best o
 ### Analysis of 2017 Stocks
 - For the “Theater Outcomes vs Launch Dates”, I created a pivot chart for all the Kickstarter and then filtered by the category theater, the outcomes, the launch date, and the years. I was able to use a line graph to visually show the rates of successful, failed, and canceled shows by month. I determined that the summer months have the most successful events while the winter months had lower shows (successful, failed, canceled) overall.
 
-![Theater vs Launch Date](https://github.com/jag28731/Kickstarter-Analysis-Challenge/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![2017](https://github.com/jag28731/VBA-Challenge/blob/main/Resources/VB_Challenge_2017.png)
 
 ### Analysis of 2018 Stocks
 - For the “Outcomes Based on Goals, I created a chart to show how many “plays” there was that was successful, failed, and/or canceled based on their goals by $5,000 increments. Using those numbers, I was able to determine a percentage for successful, failed, and canceled plays. I took those numbers and put them into a line chart for visual effects. Based on the chart and graph, I determined that the more money a goal is, it is more unlikely that you will be successful in reaching that goal.
 
-![Outcomes Based on Goals](https://github.com/jag28731/Kickstarter-Analysis-Challenge/blob/main/Resources/Outcomes_vs_Goals.png)
+![2018](https://github.com/jag28731/VBA-Challenge/blob/main/Resources/VB_Challenge_2018.png)
 
 ## Summary
 - What are the advantages of refactoring code?
