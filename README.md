@@ -7,17 +7,20 @@ Steve is looking to analyze the stock market over the last couple of years for h
 The purpose of my analysis was to visually show which stocks would be the best option for Steve's parents by comparing the stocks for the last couple of years.  Having all the data in a spreadsheet allows Steve to quickly compare which stocks would be the best option for Steve's parents.
   
 ## Results
-  Louise asked for specific information in which I conducted my analysis on. Louise asked for “Theater Outcomes vs Launch Dates” and “Outcomes vs Goals”. I was able to create two different worksheets using the Kickstarter data to provide Louise a breakdown of the specific information she was looking for.
+Steve asked to compare stocks for his parents over multiple years. I was able to create a program to compare stocks for whichever year Steve would like to see the stock results. 
  
 ### Analysis of 2017 Stocks
-- For the “Theater Outcomes vs Launch Dates”, I created a pivot chart for all the Kickstarter and then filtered by the category theater, the outcomes, the launch date, and the years. I was able to use a line graph to visually show the rates of successful, failed, and canceled shows by month. I determined that the summer months have the most successful events while the winter months had lower shows (successful, failed, canceled) overall.
+- For 2017, I ran the program I made to compare the stock total daily volume as well as the return on the stocks. Any stocks that came back with a positive return, I change the cell to green to make it easy to analyze. Any stock that had a negative return was changed to red. By comparing the results for 2017, I determined that DQ had the best return followed by SEDG.
 
 ![2017](https://github.com/jag28731/VBA-Challenge/blob/main/Resources/VB_Challenge_2017.png)
 
 ### Analysis of 2018 Stocks
-- For the “Outcomes Based on Goals, I created a chart to show how many “plays” there was that was successful, failed, and/or canceled based on their goals by $5,000 increments. Using those numbers, I was able to determine a percentage for successful, failed, and canceled plays. I took those numbers and put them into a line chart for visual effects. Based on the chart and graph, I determined that the more money a goal is, it is more unlikely that you will be successful in reaching that goal.
+- For 2018, I used the same program but changed the year to 2018. The results of 2018 return was very different. Only two stocks had a positive return, ENPH and RUN. Based on my analysis, for 2018, RUN had the highest return followed by ENPH. 
 
 ![2018](https://github.com/jag28731/VBA-Challenge/blob/main/Resources/VB_Challenge_2018.png)
+
+### Analysis of 2017 and 2018 Stocks
+- After looking at both 2017 and 2018 separately, I wanted to compare which stocks would be the best overall for Steve's parents by looking at the returns together for 2017 and 2018. Only ENPH and RUN has a positive return for both 2017 and 2018. In 2017 ENPH had a return of 129.5% and RUN had a return of 5.5%. In 2018 ENPH had a return of 81.9% and RUN had a return of 84%. I recommended to Steve's parents that ENPH would be the best stock as it had a positive return in both years and overall highest return percentage.
 
 ## Summary
 - What are the advantages of refactoring code?
